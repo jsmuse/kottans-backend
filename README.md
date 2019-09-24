@@ -9,3 +9,7 @@
 <p>I've got a lot of new information, it's been complicated and interesting. I think I don't afraid command line anymore :)</p>
 
 <img src="./task_unix_shell/linux-survival.png" />
+
+## Git Collaboration
+
+<p>I've already done it: <a href="https://github.com/jsmuse/kottans-frontend#git-collaboration">Git and GitHub</a></p>
