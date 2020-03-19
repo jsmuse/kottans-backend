@@ -54,3 +54,6 @@ bf9ad000-bf9ce000 rw-p 00000000 00:00 0          [stack]
 <p>The articals were complicated to understanding. But I figured it out :)
 
 The last task was really difficult for me. The command in description didn’t work for my MAC, so I had to install my virtual machine with linux. And then it worked! I’ve spent a few days to understand where is a mistake. I’m afraid, I still don’t understand why is that command don’t work on my MAC :(</p>
+
+
+## TCP. UDP. Network
