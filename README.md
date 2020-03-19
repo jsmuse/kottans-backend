@@ -57,3 +57,6 @@ The last task was really difficult for me. The command in description didn’t w
 
 
 ## TCP. UDP. Network
+
+
+## Patterns
