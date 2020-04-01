@@ -60,4 +60,16 @@ The last task was really difficult for me. The command in description didn’t w
 
 ## Http & Https
 
+<h3>Practice</h3>
+
+```
+curl https://api.github.com/users/jsmuse
+curl -i https://api.github.com/users/jsmuse
+curl  https://api.github.com/gists/starred
+curl --user "jsmuse:BLABLABLA" https://api.github.com/gists/starred
+curl --user "jsmuse:*" https://api.github.com/gists/starred
+curl --user "jsmuse" https://api.github.com/gists/starred
+```
+
+
 ## Patterns
