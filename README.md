@@ -60,7 +60,7 @@ The last task was really difficult for me. The command in description didn’t w
 
 ## Http & Https
 
-<h3>Practice</h3>
+<h3>Practice:</h3>
 
 ```
 curl https://api.github.com/users/jsmuse
@@ -71,5 +71,17 @@ curl --user "jsmuse:*" https://api.github.com/gists/starred
 curl --user "jsmuse" https://api.github.com/gists/starred
 ```
 
+
+Additional task:
+```
+curl -i https://api.github.com/orgs/kottans/repos
+
+curl --user 'jsmuse' -X POST -d \
+   -d '{ \
+        "title": "New issue", \
+        "body": "We should have one", \
+      }' \
+   https://api.github.com/repos/jsmuse/kottans-backend/issues
+```
 
 ## Patterns
