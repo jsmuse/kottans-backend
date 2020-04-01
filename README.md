@@ -58,6 +58,16 @@ The last task was really difficult for me. The command in description didn’t w
 
 ## TCP. UDP. Network
 
+<p>Internet 101:</p>
+
+<img src="./task_networks/Google Chrome_2020-02-10 12-13-20@2x.png" />
+
+<p>Networking for Web Developers:</p>
+
+<img src="./task_networks/Google Chrome_2020-02-11 15-11-07@2x.png" />
+
+
+
 ## Http & Https
 
 <h3>Practice:</h3>
