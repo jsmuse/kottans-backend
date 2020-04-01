@@ -84,4 +84,25 @@ curl --user 'jsmuse' -X POST -d \
    https://api.github.com/repos/jsmuse/kottans-backend/issues
 ```
 
+<h3>Questions:</h3>
+
+> <p>Name at least three possible negative consequences of not using https:</p>
+
+<p>Someone can eavesdrop your messages, someone can intercept and manipulate the message, you can’t identify who visits your website</p>
+
+
+> <p>Explain the main idea behind public key cryptography in few sentences:</p>
+
+<p>Any person can encrypt a message using the receiver's public key, but that encrypted message can only be decrypted with the receiver's private key.</p>
+
+
+> <p>You are creating an application for pet clinic. You need to implement the following functionality:</p>
+
+<p>POST request to add new pet. Data is sending in request body. Status code: 200 OK</p>
+<p>GET request to search pet. Data is sending in request query params. Status code: 200 OK</p>
+<p>PUT request to change name of an existing pet. Data is sending in request body. Status code: 200 OK</p>
+<p>PUT request to add new info about pet's health. Data is sending in request body. Status code: 201 Created</p>
+<p>POST request to assign a pet to a particular doctor in the clinic. Data is sending in request body. Status code: 200 OK</p>
+<p>POST request to register an appointment for a pet. Data is sending in request body. Status code: 201 Created</p>
+
 ## Patterns
