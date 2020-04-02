@@ -64,10 +64,6 @@ The last task was really difficult for me. The command in description didn’t w
 
 <p>Networking for Web Developers:</p>
 
-<img src="./task_networks/Google Chrome_2020-02-11 15-11-07@2x.png" />
-
-<p>How DNS Works:</p>
-
 <img src="./task_networks/Google Chrome_2020-04-02 12-34-51@2x.png" />
 
 ## Http & Https
