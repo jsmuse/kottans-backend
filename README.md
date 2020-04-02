@@ -16,7 +16,14 @@
 
 ## NodeJS Basics 1
 
-<p>-</p>
+<p>learnyounode:</p>
+<img src="./node_basic_1/learnyounode.png" />
+
+<p>stream adventure:</p>
+<img src="./node_basic_1/stream-adventure.png" />
+
+<p>functional-javascript-workshop:</p>
+<img src="./node_basic_1/.png" />
 
 ## Memory Management
 
